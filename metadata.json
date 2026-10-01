@@ -1,0 +1,8 @@
+{
+  "name": "Truewriters — Free Reading & Writing Community",
+  "description": "Truewriters is a 100% free reading, writing, and author discovery platform with no paywalls, no ads, built-in content protection, markdown editing, and direct buyer contact requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
